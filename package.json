@@ -5,6 +5,7 @@
 	
 	},
 	"author" : "Pranav",
+	"description": "this does something",
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js"
